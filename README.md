@@ -24,9 +24,10 @@
 ```yaml
 name: Anthic Kumar Singh
 role: Full Stack Developer & Machine Learning Enthusiast
-focus: Web Apps · Predictive Models · Clean Architecture
-currently_building: Historical Artifact Tracker & Library Management System
-learning: Advanced ML pipelines, System Design
+focus: Web Apps · Predictive Models · Multi-Agent AI Systems · Clean Architecture
+currently_building: Multi-Agent AI Platform (AtlashAi) & Anthic Studio Butterfly Agent
+future_goal: Building a hybrid career in Data Science + Software Engineering
+learning: Advanced ML pipelines, LLM Agents, System Design
 fun_fact: I turn coffee into commits ☕➡️💻
 ```
 
@@ -36,7 +37,7 @@ fun_fact: I turn coffee into commits ☕➡️💻
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,java,html,css,tailwind,git,github,figma,vscode,postman,firebase,mysql&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,mongodb,py,tensorflow,java,html,css,tailwind,git,github,figma,vscode,postman,firebase,mysql&perline=10" />
 
 </div>
 
@@ -51,6 +52,9 @@ fun_fact: I turn coffee into commits ☕➡️💻
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-LLM%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -58,25 +62,75 @@ fun_fact: I turn coffee into commits ☕➡️💻
 
 ## 📌 Featured Projects
 
+### 🤖 Multi-Agent AI Platform
+> A full-stack multi-agent AI system with a dedicated agent module, API backend, and frontend interface.
+
 <div align="center">
 
+<a href="https://github.com/Anthic/AtlashAi-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=AtlashAi-agent&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Anthic/MultiAgentPart-Backend-New">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=MultiAgentPart-Backend-New&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<br/>
+<a href="https://github.com/Anthic/multiagent-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=multiagent-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Anthic/Anthic-Studio-Butterfly-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Anthic-Studio-Butterfly-agent&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</div>
+
+### 🧬 Generative AI Platform
+> A GenAI-powered application with a React 19 + Vite + Tailwind v4 frontend.
+
+<div align="center">
+
+<a href="https://github.com/Anthic/GenAiFrontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=GenAiFrontend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</div>
+
+### 🦠 Covid-19 Prediction & Tracking Suite
+> Full-stack Covid-19 data platform combining a prediction backend with a live-tracking frontend.
+
+<div align="center">
+
+<a href="https://github.com/Anthic/Covid19-Frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Covid19-Frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Anthic/Covid19-Backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Covid19-Backend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<br/>
 <a href="https://github.com/Anthic/covid19-vaccine-prediction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=covid19-vaccine-prediction&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
+
+</div>
+
+### 🌐 Full-Stack Web Applications
+> Client-server web apps built with modern JS/TS stacks.
+
+<div align="center">
+
 <a href="https://github.com/Anthic/Historical-Artifact-Tracker-Clientsite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Historical-Artifact-Tracker-Clientsite&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<br/>
 <a href="https://github.com/Anthic/historical-artifacts-tracker-serversite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=historical-artifacts-tracker-serversite&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
+<br/>
 <a href="https://github.com/Anthic/Library-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Library-Management-System&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<br/>
 <a href="https://github.com/Anthic/school-event-management-clientsite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=school-event-management-clientsite&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
+<br/>
 <a href="https://github.com/Anthic/school-event-management-serversite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=school-event-management-serversite&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
@@ -124,9 +178,9 @@ fun_fact: I turn coffee into commits ☕➡️💻
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthic)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthickumarsingh2@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
