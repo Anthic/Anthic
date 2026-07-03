@@ -101,26 +101,15 @@ fun_fact: I turn coffee into commits ☕➡️💻
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anthic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anthic&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthic&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+<img src="https://raw.githubusercontent.com/Anthic/Anthic/main/generated/metrics.svg" width="100%" />
 
 </div>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anthic&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
+> ⚙️ Auto-generated every 12 hours by GitHub Actions (`lowlighter/metrics`).
 
 <br/>
 
