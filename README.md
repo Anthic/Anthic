@@ -105,7 +105,7 @@ fun_fact: I turn coffee into commits ☕➡️💻
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anthic/Anthic/main/generated/metrics.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Anthic/Anthic/main/generated/metrics.svg" width="85%" />
 
 </div>
 
