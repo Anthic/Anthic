@@ -65,77 +65,39 @@ fun_fact: I turn coffee into commits ☕➡️💻
 ### 🤖 Multi-Agent AI Platform
 > A full-stack multi-agent AI system with a dedicated agent module, API backend, and frontend interface.
 
-<div align="center">
-
-<a href="https://github.com/Anthic/AtlashAi-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=AtlashAi-agent&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Anthic/MultiAgentPart-Backend-New">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=MultiAgentPart-Backend-New&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<br/>
-<a href="https://github.com/Anthic/multiagent-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=multiagent-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Anthic/Anthic-Studio-Butterfly-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Anthic-Studio-Butterfly-agent&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
+| Repo | Description |
+|---|---|
+| [![AtlashAi-agent](https://img.shields.io/badge/AtlashAi--agent-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/AtlashAi-agent) | Core AI agent module |
+| [![MultiAgentPart-Backend-New](https://img.shields.io/badge/MultiAgentPart--Backend--New-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/MultiAgentPart-Backend-New) | Backend API for multi-agent system |
+| [![multiagent-frontend](https://img.shields.io/badge/multiagent--frontend-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/multiagent-frontend) | Frontend interface |
+| [![Anthic-Studio-Butterfly-agent](https://img.shields.io/badge/Anthic--Studio--Butterfly--agent-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/Anthic-Studio-Butterfly-agent) | Standalone AI agent studio |
 
 ### 🧬 Generative AI Platform
 > A GenAI-powered application with a React 19 + Vite + Tailwind v4 frontend.
 
-<div align="center">
-
-<a href="https://github.com/Anthic/GenAiFrontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=GenAiFrontend&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
+| Repo | Description |
+|---|---|
+| [![GenAiFrontend](https://img.shields.io/badge/GenAiFrontend-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/GenAiFrontend) | GenAI frontend (React 19 + Vite + Tailwind v4) |
 
 ### 🦠 Covid-19 Prediction & Tracking Suite
 > Full-stack Covid-19 data platform combining a prediction backend with a live-tracking frontend.
 
-<div align="center">
-
-<a href="https://github.com/Anthic/Covid19-Frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Covid19-Frontend&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Anthic/Covid19-Backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Covid19-Backend&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<br/>
-<a href="https://github.com/Anthic/covid19-vaccine-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=covid19-vaccine-prediction&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
+| Repo | Description |
+|---|---|
+| [![Covid19-Frontend](https://img.shields.io/badge/Covid19--Frontend-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/Covid19-Frontend) | Live tracking frontend |
+| [![Covid19-Backend](https://img.shields.io/badge/Covid19--Backend-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/Covid19-Backend) | Prediction API backend |
+| [![covid19-vaccine-prediction](https://img.shields.io/badge/covid19--vaccine--prediction-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/covid19-vaccine-prediction) | ML vaccine prediction model (Jupyter) |
 
 ### 🌐 Full-Stack Web Applications
 > Client-server web apps built with modern JS/TS stacks.
 
-<div align="center">
-
-<a href="https://github.com/Anthic/Historical-Artifact-Tracker-Clientsite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Historical-Artifact-Tracker-Clientsite&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Anthic/historical-artifacts-tracker-serversite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=historical-artifacts-tracker-serversite&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<br/>
-<a href="https://github.com/Anthic/Library-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=Library-Management-System&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Anthic/school-event-management-clientsite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=school-event-management-clientsite&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<br/>
-<a href="https://github.com/Anthic/school-event-management-serversite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anthic&repo=school-event-management-serversite&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
+| Repo | Description |
+|---|---|
+| [![Historical-Artifact-Tracker-Clientsite](https://img.shields.io/badge/Historical--Artifact--Tracker--Client-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/Historical-Artifact-Tracker-Clientsite) | Client for artifact tracker |
+| [![historical-artifacts-tracker-serversite](https://img.shields.io/badge/historical--artifacts--tracker--Server-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/historical-artifacts-tracker-serversite) | Server for artifact tracker |
+| [![Library-Management-System](https://img.shields.io/badge/Library--Management--System-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/Library-Management-System) | TypeScript library system |
+| [![school-event-management-clientsite](https://img.shields.io/badge/school--event--management--Client-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/school-event-management-clientsite) | Client for event management |
+| [![school-event-management-serversite](https://img.shields.io/badge/school--event--management--Server-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Anthic/school-event-management-serversite) | Server for event management |
 
 <br/>
 
