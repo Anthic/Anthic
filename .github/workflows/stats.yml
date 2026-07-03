@@ -1,18 +1,25 @@
-name: github-stats
+name: Metrics
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch: {}
+    - cron: '0 */12 * * *'   # every 12 hours
+  workflow_dispatch:          # manual "Run workflow" button
+
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Generate stats images
-        uses: jstrieb/github-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          username: Anthic
-          exclude_repos:
-          exclude_langs:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Anthic
+          template: classic
+          filename: generated/metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Dhaka
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_lines: yes
